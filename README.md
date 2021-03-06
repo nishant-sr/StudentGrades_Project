@@ -1,4 +1,4 @@
-# StudentGrades_Project
+## StudentGrades_Project
 # DSCI 100
 
 
@@ -26,5 +26,3 @@ We will be performing our data analysis by splitting our data into training and 
 - paid - extra paid classes within the course subject
 
 One of the ways plan to visualize the correlation between each of our 10 variables and the students' math grades is to generate ten different scatter plots - each one containing the Math grades on the y-axis and one of the 10 variables we chose on the x-axis. 
-
-Another method to visualize our data is to 
