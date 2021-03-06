@@ -1,5 +1,5 @@
-## StudentGrades_Project
-# DSCI 100
+# StudentGrades_Project #
+## DSCI 100 ##
 
 
 
